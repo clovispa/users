@@ -9,6 +9,15 @@ npm install
 ```
 npm run serve
 ```
+```
+
+```
+## Usuario de ingreso
+```
+usuario : clovis
+
+pass: casa
+```
 
 ### Compiles and minifies for production
 ```
